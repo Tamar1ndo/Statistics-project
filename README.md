@@ -35,6 +35,8 @@ learning techniques.
 
 ## Project Structure
 
+
+```
 worldbank-gender-income-analysis/
 │
 ├── data/
@@ -56,6 +58,8 @@ worldbank-gender-income-analysis/
 │
 ├── README.md
 └── requirements.txt
+
+```
 
 ------------------------------------------------------------------------
 
